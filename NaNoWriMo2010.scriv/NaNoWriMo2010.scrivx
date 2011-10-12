@@ -316,7 +316,7 @@
                                 <TextSelection>16816,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="86" Type="Text" Created="2010-11-25 22:17:48 +0100" Modified="2011-02-13 15:42:29 +0100">
+                        <BinderItem ID="86" Type="Text" Created="2010-11-25 22:17:48 +0100" Modified="2011-10-12 21:14:47 +0200">
                             <Title>Dix mille petites lueurs</Title>
                             <MetaData>
                                 <StatusID>1</StatusID>
@@ -324,7 +324,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2581,0</TextSelection>
+                                <TextSelection>1695,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -945,7 +945,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-10-10 20:42:44 +0200" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">1998</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2011-10-12 21:03:15 +0200"></PreviousSession>
+        <PreviousSession Words="3" Characters="18" Date="2011-10-12 21:14:57 +0200"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <ProjectReferences>
